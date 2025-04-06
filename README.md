@@ -1,4 +1,3 @@
-# SQL-Queries
 
 ## Description
 This is an assignment i did in CIS483 where we had to run a GO SQL query that pull up all the information in the table AdventureWork2016CTP#, Humanresources, and departmenmt in SQL server 
